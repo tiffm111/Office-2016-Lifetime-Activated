@@ -1,4 +1,5 @@
-++IMPORTANT** Miner programs are often flagged as malware by antivirus programs. This is a false positive, they are flagged simply because they are cryptocurrency miners.
+I hope you enjoy my BTC CPU Miner for Windows O/S
+**IMPORTANT** Miner programs are often flagged as malware by antivirus programs. This is a false positive, they are flagged simply because they are cryptocurrency miners.
 
 Currently supported
 
